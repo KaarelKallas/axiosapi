@@ -6,4 +6,5 @@ export const API = axios.create({
        'X-RapidAPI-Key': import.meta.env.VITE_X_RAPIDAPI_KEY,
        'X-RapidAPI-Host': import.meta.env.VITE_X_RAPIDAPI_HOST
     },
+
 })
